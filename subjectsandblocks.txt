@@ -1,0 +1,161 @@
+Able Studies - A B C
+American literature - C F
+British literature - C F
+AP Physics C: Electricity and Magnetism - A B C D E
+AP Physics 1: Algebra Based - B C E F
+AP German Language and Culture - B
+Physical education - A B C D E
+Comparative literature - B C D F
+Contemporary literature - B C F
+Pre Algebra - C F
+Algebra 1 - C F
+Algebra 2 - B
+US Government - B D E
+European history - B D E
+International relations - B C D F
+Economics - B C D F
+Psychology - B C
+Women studies - A C D F
+Religious studies - A B C D E
+Sociology - A B C D E
+Anthropology - C E
+Political science - B D E
+Current events - B D E
+World religions - B C
+Earth science - C E
+Oceanography - B C
+Forensic science - B C
+Botany - B
+Spanish - B
+World literature - C F
+Journalism - B D E
+Marching band - B D E
+Orchestra - B D E
+Music theory - B
+English (Grade Level) - A
+Creative writing - A B C D E
+Rhetoric - B C F
+Composition - C F
+Poetry - B C
+Debate - A
+French - B C F
+German - C F
+Latin - B
+American Sign Language - A
+Portuguese - B
+Arabic - A
+Russian - B D E
+Choir - D E
+Jazz band - A
+AP Research - B
+Art history - C E
+AP Computer Science A - B D E
+Concert band - C F
+Dance - A
+Pre AP Physics 2: Algebra Based - C E
+AP Chinese Language and Culture - B D E
+AP French Language and Culture - B C D F
+Drama - B C
+Woodworking - B
+Computer-aided drafting - B D E
+Driver education - B D E
+Cosmetology - C F
+JROTC - B
+Photography - B C
+Trigonometry - B C F
+Painting - C F
+Digital media - C F
+Film production - B D E
+AP European history - B D E
+AP Human Geography - C E
+AP Macroeconomics - C E
+Nutrition - D E
+CPR - B C
+Metalworking - C E
+AP Studio art: 2 D design - B D E
+AP Studio art: 3 D design - B C F
+Printmaking - B C D F
+Sculpture - C F
+AP Italian Language and Culture - A
+AP Japanese Language and Culture - A B C D E
+AP Latin - B C
+AP Spanish Language and Culture - B D E
+Ceramics - C F
+Team sports - C F
+Health - C F
+Wellness - B C
+Swimming - A
+Gymnastics - B
+Weight training - A B C D E
+Aerobics - B C
+Racket sports - B D E
+Yoga - A B C D E
+Business - D E
+Computer literacy - A
+Computer programming - B C
+Robotics - B D E
+FFA - A B C D E
+Electronics - B D E
+AP Computer Science Principles - A
+AP Statistics - B
+Environmental science - A
+Astronomy - B C F
+Zoology - B D E
+Accounting - B D E
+Entrepreneurship - B D E
+Fashion design - C F
+Retail marketing - B D E
+Chinese - D E
+Graphic design - C E
+Film production - B D E
+Music production - B C
+Web design - A
+AP Microeconomics - B
+AP Psychology - B C F
+Integrated math - C E
+American History - B
+World History - C F
+Geography - A
+Pre-Calculus - B D E
+Calculus - C E
+Statistics - C F
+AP English Literature and Composition - B C
+AP Comparative government and politics - B
+Networking - B D E
+Drawing - C F
+Media studies - A B C D E
+Culinary arts - B D E
+Family and consumer science - B C
+Home economics - B D E
+Word processing - C F
+Japanese - A B C D E
+Korean - B C D F
+Italian - B D E
+Auto repair - C F
+AP Seminar - B
+AP Art history - A B C D E
+Computer science - B D E
+Geometry - B D E
+AP Studio art: drawing - A B C D E
+AP English Language and Composition - B D E
+AP Biology - B D E
+AP Chemistry - A
+AP Environmental Science - A B C D E
+Physical science - B D E
+Biology - A B C D E
+Chemistry - B C
+Organic chemistry - D E
+Physics - B C D F
+Life science - D E
+AP United States Government and Politics - A B C D E
+AP United States History - D E
+AP World History - B
+Math & Computer Science - D E
+AP Calculus AB - B D E
+AP Calculus BC - C F
+AP Music theory - A B C D E
+Marketing - A B C D E
+Personal finance - C E
+AP Spanish Literature and Culture - C F
+Lunch - A B C D E F
+
