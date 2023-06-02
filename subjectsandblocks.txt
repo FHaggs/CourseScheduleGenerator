@@ -157,5 +157,5 @@ AP Music theory - A B C D E
 Marketing - A B C D E
 Personal finance - C E
 AP Spanish Literature and Culture - C F
-Lunch - A B C D E F
+Study - A B C D E F
 

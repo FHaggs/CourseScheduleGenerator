@@ -6,7 +6,7 @@ Caspar Alabama
  AP Physics 1: Algebra Based
  AP German Language and Culture
  Physical education
- Lunch
+ Study
 Cristy Alaska
  Comparative literature
  Contemporary literature
@@ -15,7 +15,7 @@ Cristy Alaska
  Algebra 2
  US Government
  European history
- Lunch
+ Study
 Cyndi Arizona
  International relations
  Economics
@@ -24,7 +24,7 @@ Cyndi Arizona
  Religious studies
  Sociology
  Anthropology
- Lunch
+ Study
 Natty Arkansas
  Political science
  Current events
@@ -33,7 +33,7 @@ Natty Arkansas
  Able Studies
  American literature
  British literature
- Lunch
+ Study
 Jill California
  AP Physics C: Electricity 
  AP Physics 1: Algebra Based
@@ -42,7 +42,7 @@ Jill California
  Comparative literature
  Contemporary literature
  Pre Algebra
- Lunch
+ Study
 Jo Colorado
  Comparative literature
  Contemporary literature
@@ -51,7 +51,7 @@ Jo Colorado
  Algebra 2
  US Government
  European history
- Lunch
+ Study
 Zelda Connecticut
  Comparative literature
  Able Studies
@@ -60,7 +60,7 @@ Zelda Connecticut
  Political science
  Current events
  World religions
- Lunch
+ Study
 Kira Delaware
  Earth science
  Able Studies
@@ -69,7 +69,7 @@ Kira Delaware
  AP Physics C: Electricity 
  AP Physics 1: Algebra Based
  AP German Language and Culture
- Lunch
+ Study
 Kirbee Florida
  International relations
  Economics
@@ -78,7 +78,7 @@ Kirbee Florida
  Religious studies
  Sociology
  Anthropology
- Lunch
+ Study
 Heath Georgia
  European history
  International relations
@@ -87,7 +87,7 @@ Heath Georgia
  Women studies
  Religious studies
  Sociology
- Lunch
+ Study
 Knox Hawaii
  Anthropology
  Political science
@@ -96,7 +96,7 @@ Knox Hawaii
  Earth science
  Able Studies
  American literature
- Lunch
+ Study
 Konrad Idaho
  British literature
  AP Physics C: Electricity 
@@ -105,7 +105,7 @@ Konrad Idaho
  Physical education
  Comparative literature
  Contemporary literature
- Lunch
+ Study
 Winnie Illinois
  Pre Algebra
  Algebra 1
@@ -114,7 +114,7 @@ Winnie Illinois
  European history
  International relations
  Economics
- Lunch
+ Study
 Teddy Indiana
  Psychology
  Women studies
@@ -123,7 +123,7 @@ Teddy Indiana
  Anthropology
  Political science
  Current events
- Lunch
+ Study
 Tim Iowa
  World religions
  Earth science
@@ -132,7 +132,7 @@ Tim Iowa
  British literature
  AP Physics C: Electricity 
  AP Physics 1: Algebra Based
- Lunch
+ Study
 Toby Kansas
  Able Studies
  American literature
@@ -141,7 +141,7 @@ Toby Kansas
  AP Physics 1: Algebra Based
  AP German Language and Culture
  Physical education
- Lunch
+ Study
 Shelly Kentucky
  US Government
  European history
@@ -150,7 +150,7 @@ Shelly Kentucky
  Psychology
  Women studies
  Religious studies
- Lunch
+ Study
 Rufus Louisiana
  Sociology
  Anthropology
@@ -159,7 +159,7 @@ Rufus Louisiana
  World religions
  Earth science
  Able Studies
- Lunch
+ Study
 Lucy Maine
  American literature
  British literature
@@ -168,7 +168,7 @@ Lucy Maine
  AP German Language and Culture
  Physical education
  Comparative literature
- Lunch
+ Study
 Zoe Maryland
  Contemporary literature
  Pre Algebra
@@ -177,7 +177,7 @@ Zoe Maryland
  US Government
  European history
  International relations
- Lunch
+ Study
 Konstantin Massachusetts
  Economics
  Psychology
@@ -186,7 +186,7 @@ Konstantin Massachusetts
  Sociology
  Anthropology
  Political science
- Lunch
+ Study
 Wendy Michigan
  Current events
  World religions
@@ -195,7 +195,7 @@ Wendy Michigan
  American literature
  British literature
  AP Physics C: Electricity 
- Lunch
+ Study
 Parker Minnesota
  International relations
  Economics
@@ -204,7 +204,7 @@ Parker Minnesota
  Religious studies
  Sociology
  Anthropology
- Lunch
+ Study
 Tammy Mississippi
  Algebra 2
  US Government
@@ -213,7 +213,7 @@ Tammy Mississippi
  Economics
  Psychology
  Women studies
- Lunch
+ Study
 Turner Missouri
  Able Studies
  American literature
@@ -222,7 +222,7 @@ Turner Missouri
  AP Physics 1: Algebra Based
  AP German Language and Culture
  Physical education
- Lunch
+ Study
 Sonny Montana
  Able Studies
  American literature
@@ -231,7 +231,7 @@ Sonny Montana
  AP Physics 1: Algebra Based
  AP German Language and Culture
  Physical education
- Lunch
+ Study
 Marty Nebraska
  Comparative literature
  Contemporary literature
@@ -240,7 +240,7 @@ Marty Nebraska
  Algebra 2
  US Government
  European history
- Lunch
+ Study
 Zeus Nevada
  International relations
  Economics
@@ -249,7 +249,7 @@ Zeus Nevada
  Religious studies
  Sociology
  Anthropology
- Lunch
+ Study
 Roxy New Hampshire
  Able Studies
  American literature
@@ -258,7 +258,7 @@ Roxy New Hampshire
  AP Physics 1: Algebra Based
  AP German Language and Culture
  Physical education
- Lunch
+ Study
 Tessa New Jersey
  International relations
  Economics
@@ -267,7 +267,7 @@ Tessa New Jersey
  Religious studies
  Sociology
  Anthropology
- Lunch
+ Study
 Stacy New Mexico
  Algebra 1
  Algebra 2
@@ -276,7 +276,7 @@ Stacy New Mexico
  International relations
  Economics
  Psychology
- Lunch
+ Study
 Stafani New York
  Creative writing
  AP French Language and Culture
@@ -285,7 +285,7 @@ Stafani New York
  American literature
  Current events
  World religions
- Lunch
+ Study
 Sven North Carolina
  Earth science
  Able Studies
@@ -294,7 +294,7 @@ Sven North Carolina
  AP Physics C: Electricity 
  AP Physics 1: Algebra Based
  AP German Language and Culture
- Lunch
+ Study
 Tate North Dakota
  Physical education
  Comparative literature
@@ -303,7 +303,7 @@ Tate North Dakota
  Algebra 1
  Algebra 2
  US Government
- Lunch
+ Study
 Stuart Ohio
  European history
  International relations
@@ -312,7 +312,7 @@ Stuart Ohio
  Women studies
  Religious studies
  Sociology
- Lunch
+ Study
 Thelma Oklahoma
  Anthropology
  Political science
@@ -321,7 +321,7 @@ Thelma Oklahoma
  Earth science
  Able Studies
  American literature
- Lunch
+ Study
 Abbey Oregon
  British literature
  AP Physics C: Electricity 
@@ -330,7 +330,7 @@ Abbey Oregon
  Physical education
  Comparative literature
  Contemporary literature
- Lunch
+ Study
 Max Pennsylvania
  Pre Algebra
  Algebra 1
@@ -339,7 +339,7 @@ Max Pennsylvania
  European history
  International relations
  Economics
- Lunch
+ Study
 Abdul Rhode Island
  Psychology
  Women studies
@@ -348,7 +348,7 @@ Abdul Rhode Island
  Anthropology
  Political science
  Current events
- Lunch
+ Study
 Casey South Carolina
  World religions
  Earth science
@@ -357,7 +357,7 @@ Casey South Carolina
  British literature
  AP Physics C: Electricity 
  AP Physics 1: Algebra Based
- Lunch
+ Study
 Shelby South Dakota
  AP German Language and Culture
  Physical education
@@ -366,7 +366,7 @@ Shelby South Dakota
  Pre Algebra
  Algebra 1
  Algebra 2
- Lunch
+ Study
 Theo Tennessee
  US Government
  European history
@@ -375,7 +375,7 @@ Theo Tennessee
  Psychology
  Women studies
  Religious studies
- Lunch
+ Study
 Lily Texas
  Able Studies
  American literature
@@ -384,7 +384,7 @@ Lily Texas
  AP Physics 1: Algebra Based
  AP German Language and Culture
  Physical education
- Lunch
+ Study
 Elmer Utah
  American literature
  British literature
@@ -393,7 +393,7 @@ Elmer Utah
  AP German Language and Culture
  Physical education
  Comparative literature
- Lunch
+ Study
 Haywood Vermont
  Contemporary literature
  Pre Algebra
@@ -402,7 +402,7 @@ Haywood Vermont
  US Government
  European history
  International relations
- Lunch
+ Study
 Hazel Virginia
  Economics
  Psychology
@@ -411,7 +411,7 @@ Hazel Virginia
  Sociology
  Anthropology
  Political science
- Lunch
+ Study
 Rupert Washington
  Current events
  World religions
@@ -420,7 +420,7 @@ Rupert Washington
  American literature
  British literature
  AP Physics C: Electricity 
- Lunch
+ Study
 Tully West Virginia
  AP Physics 1: Algebra Based
  AP German Language and Culture
@@ -429,7 +429,7 @@ Tully West Virginia
  Contemporary literature
  Pre Algebra
  Algebra 1
- Lunch
+ Study
 Sydney Wisconsin
  Algebra 2
  US Government
@@ -438,7 +438,7 @@ Sydney Wisconsin
  Economics
  Psychology
  Women studies
- Lunch
+ Study
 Sylvan Wyoming
  Religious studies
  Sociology
@@ -447,4 +447,4 @@ Sylvan Wyoming
  Current events
  World religions
  Earth science
- Lunch
+ Study

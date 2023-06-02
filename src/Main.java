@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.util.ArrayList;
-
+import java.util.List;
 
 
 public class Main {
@@ -12,7 +12,7 @@ public class Main {
 	public static void main(String[] args) throws Exception{
 	
 
-		File students = new File("students.txt");
+		File students = new File("../students.txt");
 		
 		BufferedReader br = new BufferedReader(new FileReader(students));
 		String student_name;
@@ -28,10 +28,10 @@ public class Main {
 
 				
 				
-				if(!solve(student1.schedule,0) && !done) {
+				if(!solve(student1.schedule,0, student1.classes.subList(0, 6)) && !done) {
 					student1.pop_class();
 					student1.create_schedule();
-					if(solve(student1.schedule,0)) {
+					if(solve(student1.schedule,0, student1.classes.subList(0,6))) {
 						break;
 					}
 				}
@@ -42,7 +42,6 @@ public class Main {
 			if(!done) {
 				problem_students.add(student1);
 			}
-			
 		}
 		System.out.println("\n\nStudents with schedule problems: " + problem_students.size());
 		for(int i=0;i<problem_students.size(); i++) {
@@ -58,12 +57,12 @@ public class Main {
 			}*/
 			
 			for(int j=1;j<5;j++) {				
-				if(solve(problem_students.get(i).schedule, j)) {
+				if(solve(problem_students.get(i).schedule, j, problem_students.get(i).classes.subList(0, 6))) {
 					break;
 				}
 			}
 		}
-		
+	br.close();	
 	}
 	
 	static private boolean isSafe(int[][] board, int row, int col) {
@@ -86,9 +85,9 @@ public class Main {
 		return true;
 	}
 	
-	static private boolean solve(int[][] board, int row) {
+	static private boolean solve(int[][] board, int row, List<String> classes) {
 		if(row >= 6) {
-			printcourse(board);
+			printcourse(board, classes);
 			for(int i=0;i<6;i++) {
 				for(int j=0;j<6;j++) {
 					if(board[i][j] == 1) {
@@ -103,8 +102,8 @@ public class Main {
 		for(int i=0;i<6;i++) {
 			if(isSafe(board, row, i)) {
 				board[row][i] = 1;
-				
-				if(solve(board, row + 1)) {
+		
+				if(solve(board, row + 1, classes)) {
 					done=true;
 					break;
 				}
@@ -114,14 +113,18 @@ public class Main {
 		return false;
 	}
 	
-	static private void printcourse(int data[][]) {
+	static private void printcourse(int data[][], List<String> classes) {
 		for(int i=0;i<6;i++) {
 			for(int j=0;j<6;j++) {
-				if(data[i][j] == 1){					
+                if(i == 0){
+                    System.out.print(classes.get(j)+ ": ");
+                }
+				if(data[i][j] == 1){	
 					System.out.print(" X ");
 				}else {
 					System.out.print(" O ");
 				}
+                if(i == 0){System.out.print('\n');}
 			}
 			System.out.print('\n');
 		}
