@@ -30,7 +30,7 @@ public class Student {
 		boolean already_created = true;
 		//this.classes.add(className);
 		//File classes = new File("subjectsandblocks.txt");
-		File students = new File("out.txt");
+		File students = new File("../out.txt");
 		
 		BufferedReader br = new BufferedReader(new FileReader(students));
 		String string;
@@ -71,7 +71,7 @@ public class Student {
 		}	
 	}
 	public void create_schedule() throws IOException {
-		File classes = new File("subjectsandblocks.txt");
+		File classes = new File("../subjectsandblocks.txt");
 		
 		BufferedReader br = new BufferedReader(new FileReader(classes));
 		String string;

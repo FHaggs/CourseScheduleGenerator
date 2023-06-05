@@ -37,7 +37,6 @@ public class Main {
 				}
 
 			}
-			System.out.println(student1.classes.subList(0, 6));
 			System.out.println("-------------------");
 			if(!done) {
 				problem_students.add(student1);
@@ -116,18 +115,23 @@ public class Main {
 	static private void printcourse(int data[][], List<String> classes) {
 		for(int i=0;i<6;i++) {
 			for(int j=0;j<6;j++) {
-                if(i == 0){
-                    System.out.print(classes.get(j)+ ": ");
+                StringBuilder pretty_printer = new StringBuilder(100);
+                if(j == 0){
+                    int num_espacos = 40 - classes.get(i).length(); // used for formating
+                    pretty_printer.append(classes.get(i)+ ":");
+                    String espacos = String.format("%" + num_espacos + "s", "");
+                    pretty_printer.append(espacos);
                 }
 				if(data[i][j] == 1){	
-					System.out.print(" X ");
+					pretty_printer.append(" X ");
 				}else {
-					System.out.print(" O ");
+					pretty_printer.append(" O ");
 				}
-                if(i == 0){System.out.print('\n');}
+                System.out.print(pretty_printer);
 			}
 			System.out.print('\n');
 		}
+
 	}
 
 	static boolean is_availible(int period, int day) {
