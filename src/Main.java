@@ -1,13 +1,11 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.List;
 
 
 public class Main {
-	public static ArrayList<Block> blocks = new ArrayList<Block>();
-	public static ArrayList<Student> problem_students = new ArrayList<Student>(); 
+	public static FamList<Block> blocks = new FamList<Block>();
+	public static FamList<Student> problem_students = new FamList<Student>(); 
 	static boolean done=false;
 	public static void main(String[] args) throws Exception{
 	
@@ -84,7 +82,7 @@ public class Main {
 		return true;
 	}
 	
-	static private boolean solve(int[][] board, int row, List<String> classes) {
+	static private boolean solve(int[][] board, int row, FamList<String> classes) {
 		if(row >= 6) {
 			printcourse(board, classes);
 			for(int i=0;i<6;i++) {
@@ -112,7 +110,7 @@ public class Main {
 		return false;
 	}
 	
-	static private void printcourse(int data[][], List<String> classes) {
+	static private void printcourse(int data[][], FamList<String> classes) {
 		for(int i=0;i<6;i++) {
 			for(int j=0;j<6;j++) {
                 StringBuilder pretty_printer = new StringBuilder(100);

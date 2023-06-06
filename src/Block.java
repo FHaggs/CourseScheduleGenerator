@@ -1,8 +1,7 @@
-import java.util.ArrayList;
 
 public class Block {
 	String class_name;
-	ArrayList<Character> days = new ArrayList<Character>();
+	FamList<Character> days = new FamList<Character>();
 	public int period;
 	
 	int[][] enroled_students = new int[6][6];

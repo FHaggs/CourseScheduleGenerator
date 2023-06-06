@@ -3,7 +3,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Collections;
 
 
@@ -11,7 +10,7 @@ import java.util.Collections;
 public class Student {
 	String name;
 	
-	ArrayList<String> classes = new ArrayList<String>();
+	FamList<String> classes = new FamList<String>();
 	
 	int[][] schedule = new int[6][6];
 	
